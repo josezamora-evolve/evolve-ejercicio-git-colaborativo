@@ -3,3 +3,5 @@ Tareas 2025
 - desarrollar app de correo
 - Hacer un colacao
 - Tirar la basura
+- Hacer monográfico de pokémon
+- Diseño de interfaz
