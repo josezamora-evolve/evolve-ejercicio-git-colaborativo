@@ -5,6 +5,7 @@ Tareas 2025
 - Tirar la basura
 - Hacer monográfico de pokémon
 - Diseño de interfaz
+-Terminar el master
 - Hacer una nueva ventana en la App
 - Aprender a usar bien github
 
@@ -13,6 +14,8 @@ Recursos 2025
 - 1 oficina
 - 4 mesas
 - 2 portátiles
+-3 boligrafos
+-2 folios
 - 1 Pikachu
 - 3 Lechugas
 - Bolsas de café
@@ -22,7 +25,8 @@ Objetivos:
 - Buscar capital.
 - Preparar clases antes del lunes.
 - Sacar matrícula de honor
-- Hacer una App to guapa y epicofantastica.
+-crear agencia de IA 
+-crear pagina web
 
 Recompensa:
 - Una pizza 
