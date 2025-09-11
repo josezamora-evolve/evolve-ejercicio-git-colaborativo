@@ -38,15 +38,24 @@ def main():
         "Hacer un colacao": False,
         "Tirar la basura": False,
         "Hacer monográfico de pokémon": False,
-        "Diseño de interfaz": False
+        "Diseño de interfaz": False,
+        "Diseño de interfaz": False,     
+        "Hacer una nueva ventana en la App": False,
+        "Aprender a usar bien github": False
+
     }
 
-    recursos = ["2 Coches", "1 Oficina", "4 Mesas", "2 Portátiles"]
+    recursos = ["2 Coches", "1 Oficina", "4 Mesas", "2 Portátiles", "1 Pikachu", "3 Lechugas", "Bolsas de café", "Galletas de chocolate"]
     
+    Personal = ["Jose", "Angel", "Joan", "Abel", "José", "Sergio"]
+    
+    Recompensa = ["Una pizza ", "Ver anime", "Una palmadita en la espalda"]
+
     objetivos = {
         "Buscar capital": False,
         "Preparar clases antes del lunes": False,
-        "Sacar matrícula de honor": False
+        "Sacar matrícula de honor": False,
+        "Hacer una App to guapa y epicofantastica.": False,
     }
 
     while True:
@@ -54,6 +63,8 @@ def main():
         
         if opcion == "1":
             mostrar_lista(tareas, "Lista de cosas que hacer en 2025:")
+            mostrar_lista(Personal, "Lista de personal encargado:")
+            mostrar_lista(Recompensa, "Lista de Recompensas:")
             print("\nLista de recursos:")
             for i, recurso in enumerate(recursos, 1):
                 print(f"{i}. {recurso}")
