@@ -25,3 +25,6 @@ Personal:
 - Joan
 - Abel
 - Sergio
+
+Botones:
+- Color rojo
