@@ -31,3 +31,6 @@ Personal:
 - Abel
 - José
 - Sergio
+
+Botones:
+- Color rojo
